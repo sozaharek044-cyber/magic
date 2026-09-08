@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@keyframes shake {
+  0% { transform: translate(0, 0) rotate(0deg); }
+  20% { transform: translate(-8px, 6px) rotate(-1deg); }
+  40% { transform: translate(8px, -6px) rotate(1deg); }
+  60% { transform: translate(-6px, -4px) rotate(-0.5deg); }
+  80% { transform: translate(6px, 4px) rotate(0.5deg); }
+  100% { transform: translate(0, 0) rotate(0deg); }
+}
+
+body {
+  font-family: 'Plus Jakarta Sans', 'Fredoka', system-ui, -apple-system, sans-serif;
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-touch-callout: none;
+}

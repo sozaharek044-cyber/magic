@@ -1,0 +1,6 @@
+{
+  "name": "疯狂魔法厨房",
+  "description": "儿童执行功能（抑制控制）训练游戏：化身魔法厨房疯狂主厨，在魔力传送带上为3位VIP奇异兽食客上菜与监测危险！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
